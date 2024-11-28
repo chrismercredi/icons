@@ -4,7 +4,7 @@ This icon set is a work in progress. My goal is to create one new icon every day
 
 ## About
 
-This project aims to provide a comprehensive set of SVG icons for electrical symbols. These icons are designed to be free, open-source, and easily customizable. Each icon is created using Affinity Designer, my editor of choice, as I prefer not to use Gimp.
+This project aims to provide a comprehensive set of SVG icons for electrical symbols. These icons are designed to be free, open-source, and easily customizable. Each icon is created using Affinity Designer, my editor of choice.
 
 ## Features
 
